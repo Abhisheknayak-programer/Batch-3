@@ -1,0 +1,28 @@
+.box {
+  height: 200px;
+  width: 300px;
+  margin-bottom: 10px;
+  border: 10px solid red;
+}
+
+#uniqueBox {
+  border: 10px solid gold;
+}
+
+.redcolor {
+  color: sienna;
+}
+
+/*RGB or RED GREEB BLUE 256 * 256 * 256 */
+.mycolor {
+  color: rgb(161, 255, 69);
+}
+
+/* Hash Color : 0 to 9 or a to f */
+.mycolor2 {
+  color: #7c6a5b;
+}
+
+/* HOMEWORK
+1. Create 20 RGB Colors and apply that on the text
+2. Create 20 Hash Colors and apply that on the text */
