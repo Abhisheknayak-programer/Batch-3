@@ -1,0 +1,58 @@
+/* BACKGROUND COLOR  */
+.box {
+  height: 200px;
+  width: 200px;
+  background: rgb(23, 123, 234);
+}
+
+.box h1 {
+  color: white;
+}
+
+/* UNITS IN CSS [PX, REM] */
+.container {
+  background: crimson;
+  height: 300px;
+  width: 500px;
+}
+
+/* HEIGHT AND WIDTH */
+.container {
+  background: greenyellow;
+  height: 15rem;
+  width: 25rem;
+}
+
+/* 1rem = 16px */
+
+/* CREATE A HASH COLOR */
+.color {
+  /* 0 to 9 or a to f */
+  color: #7b5ad5;
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+FONT SIZE
+FONT WEIGHT
+FONT STYLE
+TEXT DECORATION
+TEXT TRANSFORM
+TEXT ALIGN
+BORDER
+TYPES OF BORDER
+BORDER RADIUS
+PADDING AND ITS TYPES
+MARGIN AND ITS TYPES 
+DISPLAY BLOCK AND NONE
+DISPLAY FLEX
+GRADIENT COLOR
+BOX SHADOW*/
