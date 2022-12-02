@@ -1,0 +1,81 @@
+/* FONT SIZE */
+.myText {
+  font-size: 50px;
+}
+
+/* FONT WEIGHT */
+/* 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000 */
+.text1 {
+  font-weight: 600;
+}
+
+/* FONT STYLE */
+.myPara {
+  font-style: italic;
+}
+
+/* TEXT DECORATION */
+.redirectLink {
+  text-decoration: none;
+}
+
+/* TEXT TRANSFORM */
+.para1 {
+  text-transform: lowercase;
+}
+
+.para2 {
+  text-transform: uppercase;
+}
+
+/* TEXT ALIGN */
+.para3 {
+  text-align: center;
+  text-align: right;
+  text-align: left;
+}
+
+/* LINE HEIGHT */
+.para4 {
+  line-height: 1.5;
+}
+
+/* LIST STYLE */
+.myList {
+  list-style: none;
+  list-style: armenian;
+  list-style: circle;
+  list-style: decimal;
+  list-style: decimal-leading-zero;
+  list-style: georgian;
+  list-style: upper-alpha;
+  list-style: lower-alpha;
+  list-style: square;
+}
+
+/* BORDER */
+.box {
+  height: 300px;
+  border: 10px solid red;
+}
+
+/* TYPES OF BORDER */
+.box {
+  border: 10px solid red;
+  border: 10px ridge red;
+  border: 10px inset red;
+  border: 10px outset red;
+  border: 10px double red;
+}
+
+/* HOMEWORK
+1. Make Different Types of borders in CSS */
+
+/* 
+BORDER RADIUS
+PADDING AND ITS TYPES
+MARGIN AND ITS TYPES 
+DISPLAY BLOCK AND NONE
+DISPLAY FLEX
+GRADIENT COLOR
+BOX SHADOW*/
